@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LuckyLucc
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Java
